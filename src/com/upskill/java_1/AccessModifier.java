@@ -14,8 +14,7 @@ public class AccessModifier {
 	String address = "Heritage Tower";
 	
 	
-int a = 45;
-int a = 12;23;
+
 
 
 
